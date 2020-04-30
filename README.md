@@ -8,7 +8,7 @@ Manually labeled corpora are expensive to create and often not available for low
 - **Paper**: https://arxiv.org/abs/1807.00745 (latest version) or http://aclweb.org/anthology/W18-3402
 - **Slides**: See content of this repository
 - **Poster**: See content of this repository
-- **Code**: Please contact the authors at *mail at michael-hedderich .de*
+- **Code**: The code was made publicly available as part of https://github.com/uds-lsv/noise-matrix-ner You can also contact the authors at *mhedderich [ at ] lsv . uni-saarland .de*
 
 ### BibTex
 ```
